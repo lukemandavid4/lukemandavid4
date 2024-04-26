@@ -22,7 +22,9 @@ Tools:
 
 Get in Touch📫
 LinkedIn: https://www.linkedin.com/in/lukeman-david-6b88b1212/
-Twitter: 
+
+Twitter: https://twitter.com/LUKEMANDAVID1
+
 Email: dmwangi595@gmail.com
 Feel free to reach out if you want to collaborate on a project or just to say hi! 😊
 
