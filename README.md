@@ -5,6 +5,8 @@ I'm a Full-Stack Developer passionate about anything to do with coding. I love S
 Skills 🛠️
 Programming Languages: JavaScript, HTML, CSS, Python, C++ 💻
 Technologies: React, Node.js, React Native, Express, MongoDB 🚀
+
+
 Tools:
   Version Control: Git
   IDEs/Editors: Visual Studio Code, Sublime Text
@@ -17,9 +19,10 @@ Tools:
   Text Editors: Visual Studio Code
   Design Tools: Adobe Photoshop, Figma
 
+
 Get in Touch📫
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]
-Email: [Your Email Address]
+LinkedIn: https://www.linkedin.com/in/lukeman-david-6b88b1212/
+Twitter: 
+Email: dmwangi595@gmail.com
 Feel free to reach out if you want to collaborate on a project or just to say hi! 😊
 
