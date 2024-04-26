@@ -5,7 +5,7 @@ I'm a Full-Stack Developer passionate about anything to do with coding. I love S
 
 Skills 🛠️
 
-Programming Languages: JavaScript, HTML https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg, CSS, Python, C++ 💻
+Programming Languages: JavaScript, HTML, CSS, Python, C++ 💻
 
 Technologies: React, Node.js, React Native, Express, MongoDB 🚀
 
