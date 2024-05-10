@@ -26,7 +26,7 @@ Tools:
   
   Cloud Platforms: AWS, Azure, Google Cloud Platform
   
-  Database Management: MongoDB Compass
+  Database Management: MongoDB Compass, MongoDB Atlas
   
   Text Editors: Visual Studio Code
   
