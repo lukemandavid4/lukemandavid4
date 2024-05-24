@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukeman David</h1>
 <h3 align="center">About ME</h3>
-<p>An experienced software developer adept at bringing forth expertise in the design, installation, testing, and maintenance of software systems. Proficient in various platforms, languages and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborative as part of a productive team.</p>
+<p>An experienced Full Stack developer adept at bringing forth expertise in the design, installation, testing, and maintenance of software systems. Proficient in various platforms, languages and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborative as part of a productive team.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukemandavid4&label=Profile%20views&color=0e75b6&style=flat" alt="lukemandavid4" /> </p>
 
