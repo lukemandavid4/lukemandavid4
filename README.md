@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukemandavid4&show_icons=true&locale=en" alt="lukemandavid4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukemandavid4&" alt="lukemandavid4" /></p>
+<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg">
