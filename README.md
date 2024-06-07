@@ -2,7 +2,6 @@
 <h3 align="center">About ME</h3>
 <p>An experienced Full Stack developer adept at bringing forth expertise in the design, installation, testing, and maintenance of software systems. Proficient in various platforms, languages and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborative as part of a productive team.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukemandavid4&label=Profile%20views&color=0e75b6&style=flat" alt="lukemandavid4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukemandavid4" alt="lukemandavid4" /></a> </p>
 
